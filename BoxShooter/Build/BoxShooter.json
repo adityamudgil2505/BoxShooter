@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BoxShooter.data.unityweb",
+"asmCodeUrl": "BoxShooter.asm.code.unityweb",
+"asmMemoryUrl": "BoxShooter.asm.memory.unityweb",
+"asmFrameworkUrl": "BoxShooter.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
